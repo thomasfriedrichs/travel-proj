@@ -25,7 +25,7 @@ const Header = () => {
             Book a Flight 
           </Button>
         </NavBtn>
-      </Nav>
+      </Nav> 
     </> 
   )
 }
