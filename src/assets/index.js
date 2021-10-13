@@ -1,3 +1,9 @@
-export const Jungle = require('./videos/Pexels Videos 2547258.mp4');
-export const City = require('./videos/Pexels Videos 2818546.mp4');
-export const Balloons = require('./videos/video.mp4');
+import Jungle from './videos/Vid1.mp4';
+import City from './videos/Vid2.mp4';
+import Balloons from './videos/video.mp4';
+
+export {
+  Jungle,
+  City,
+  Balloons
+};

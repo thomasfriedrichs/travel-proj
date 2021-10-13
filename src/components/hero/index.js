@@ -13,9 +13,9 @@ import
 import { Button } from './../header/Button';
 import 
   { 
-    Jungle
-    // City, 
-    // Balloons 
+    Jungle,
+    City, 
+    Balloons 
   } from './../../assets/index';
 
 const Hero = () => {
@@ -27,9 +27,9 @@ const Hero = () => {
         <HeroBg>
           <VideoBg 
             src={
-              Jungle
-              // City,
-              // Balloons
+              Jungle,
+              City,
+              Balloons
             } 
             type='video/mp4' 
             autoPlay 

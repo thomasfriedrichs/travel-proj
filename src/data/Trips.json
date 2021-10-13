@@ -1,0 +1,38 @@
+[
+  {
+    "img": "../assets/images/Canada.jpg",
+    "alt": "Mountains in Canada",
+    "name": "Banff National Park, Canada",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/Croatia.jpg",
+    "alt": "Buildings in Split, Croatia",
+    "name": "Split, Croatia",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/Greece.jpg",
+    "alt": "Greece",
+    "name": "Greece",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/Italy.jpg",
+    "alt": "Amalfi Coast, Italy",
+    "name": "Amalfi Coast, Italy",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/Peru.jpg",
+    "alt": "Machu Pichu, Peru",
+    "name": "Machu Pichu, Peru",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/Spain.jpg",
+    "alt": "Madrid, Spain",
+    "name": "Madrid, Spain",
+    "button": "View Destination"
+  }
+]
