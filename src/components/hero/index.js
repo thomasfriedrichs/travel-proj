@@ -20,7 +20,6 @@ import
 
 const Hero = () => {
 
-  console.log('Jungle',Jungle)
   return  (
     <>
       <HeroContainer>
